@@ -60,10 +60,10 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16089614" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Action (1)">
+  <component name="RunManager" selected="Application.Action04">
     <configuration name="Action (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter01.task02.Action" />
       <module name="Java8-learn" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.task01.Action" />
+    <configuration name="Action01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.Action01" />
       <module name="Java8-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter01.task01.*" />
+          <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Action" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.task02.Action" />
+    <configuration name="Action02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.Action02" />
       <module name="Java8-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter01.task02.*" />
+          <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.Hello" />
+    <configuration name="Action03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.Action03" />
       <module name="Java8-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter01.task01.*" />
+          <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.HelloWord" />
+    <configuration name="Action04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.Action04" />
       <module name="Java8-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter01.task01.*" />
+          <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,9 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Action04" />
+        <item itemvalue="Application.Action03" />
+        <item itemvalue="Application.Action02" />
+        <item itemvalue="Application.Action01" />
         <item itemvalue="Application.Action (1)" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.HelloWord" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +163,10 @@
       <workItem from="1632620688032" duration="1197000" />
       <workItem from="1632659088421" duration="618000" />
       <workItem from="1632838844571" duration="1853000" />
-      <workItem from="1632876061415" duration="2921000" />
+      <workItem from="1632876061415" duration="13884000" />
+      <workItem from="1632900050581" duration="16000" />
+      <workItem from="1632916132783" duration="2894000" />
+      <workItem from="1633137398370" duration="5231000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1632447948840</created>
@@ -177,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632471093805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java8-Lambda">
+      <created>1632879202708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632879202708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="Java8-通过行为参数化传递代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java8-通过行为参数化传递代码" />
+    <MESSAGE value="Java8-Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java8-Lambda" />
   </component>
 </project>
